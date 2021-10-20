@@ -1,2 +1,3 @@
 # Ignore database file
 dev.db
+dev.db-journal
